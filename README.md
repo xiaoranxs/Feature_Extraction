@@ -7,4 +7,4 @@
 
 阶段成果及改进：
 
-code结构：
+code结构：Video_Coding为视频编码结果,.npy给python调用,.csv给R调用. 
