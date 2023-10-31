@@ -25,5 +25,3 @@ for i in npy_files:
 
     npy_to_csv(i[:-4])
 
-
-
