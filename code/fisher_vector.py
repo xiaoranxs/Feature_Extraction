@@ -143,5 +143,3 @@ if __name__ == "__main__":
     response = send_message(title, content, SCKEY)
     print(response)
 
-
-
